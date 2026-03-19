@@ -1,2 +1,5 @@
-# Receitas
-by antoonyz
+📚 Projeto da faculdade
+
+# Tecnologias
+- HTML
+- CSS
